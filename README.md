@@ -29,19 +29,19 @@ The project includes three Power BI dashboard pages.
 
 Provides a high-level view of the business, including revenue, orders, sessions, conversion rate, AOV, gross profit, monthly trends, marketing sources, devices, and products.
 
-![Executive Overview](04_PowerBI/dashboard_overview.png)
+![Executive Overview](04_PowerBI/dashboard_previews/dashboard_overview.png)
 
 ### 2. Marketing & Customer Analysis
 
 Analyzes marketing sources, device performance, customer type, sessions, orders, and conversion rates.
 
-![Marketing & Customer Analysis](04_PowerBI/marketing_customer_analysis.png)
+![Marketing & Customer Analysis](04_PowerBI/dashboard_previews/marketing_customer_analysis.png)
 
 ### 3. Product & Refund Analysis
 
 Analyzes product revenue, units sold, gross profit, gross margin, refund amounts, and refund rates.
 
-![Product & Refund Analysis](04_PowerBI/product_refund_analysis.png)
+![Product & Refund Analysis](04_PowerBI/dashboard_previews/product_refund_analysis.png)
 
 ---
 
