@@ -1,0 +1,5 @@
+table,column,missing_count,missing_pct
+website_sessions,utm_source,83328,17.62
+website_sessions,utm_campaign,83328,17.62
+website_sessions,utm_content,83328,17.62
+website_sessions,http_referer,39917,8.44

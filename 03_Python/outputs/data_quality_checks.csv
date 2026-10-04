@@ -1,0 +1,7 @@
+check,count
+duplicate_session_ids,0
+duplicate_pageview_ids,0
+duplicate_order_ids,0
+duplicate_order_item_ids,0
+duplicate_refund_ids,0
+duplicate_product_ids,0
