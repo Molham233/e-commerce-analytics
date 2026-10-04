@@ -41,7 +41,7 @@ Analyzes marketing sources, device performance, customer type, sessions, orders,
 
 Analyzes product revenue, units sold, gross profit, gross margin, refund amounts, and refund rates.
 
-![Product & Refund Analysis](04_PowerBI/dashboard_previews/04_PowerBI/product_refund_analysis.png)
+![Product & Refund Analysis](04_PowerBI/dashboard_previews/product_refund_analysis.png)
 
 ---
 
